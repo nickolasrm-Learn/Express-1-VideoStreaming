@@ -1,4 +1,7 @@
 # Express - Video Streaming
+
+![Build](https://github.com/nickolasrm-Learn/Express-VideoStreaming/workflows/coverage/badge.svg)
+
 A simple video streaming system made with Express.js
 
 ## Usage
