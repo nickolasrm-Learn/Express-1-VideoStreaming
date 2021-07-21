@@ -1,6 +1,6 @@
 # Express-1 Video Streaming
 
-![Build](https://github.com/nickolasrm-Learn/Express-VideoStreaming/actions/workflows/coverage.yml/badge.svg)
+![Build](https://github.com/nickolasrm-Learn/Express-1-VideoStreaming/actions/workflows/coverage.yml/badge.svg)
 
 _A simple video streaming made with Express.js_
 
